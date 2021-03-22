@@ -1,0 +1,16 @@
+C:\Users\Baratharun\Visual C#\Masterclass\Project_Euler\bin\Debug\net5.0\Project_Euler.exe
+C:\Users\Baratharun\Visual C#\Masterclass\Project_Euler\bin\Debug\net5.0\Project_Euler.deps.json
+C:\Users\Baratharun\Visual C#\Masterclass\Project_Euler\bin\Debug\net5.0\Project_Euler.runtimeconfig.json
+C:\Users\Baratharun\Visual C#\Masterclass\Project_Euler\bin\Debug\net5.0\Project_Euler.runtimeconfig.dev.json
+C:\Users\Baratharun\Visual C#\Masterclass\Project_Euler\bin\Debug\net5.0\Project_Euler.dll
+C:\Users\Baratharun\Visual C#\Masterclass\Project_Euler\bin\Debug\net5.0\ref\Project_Euler.dll
+C:\Users\Baratharun\Visual C#\Masterclass\Project_Euler\bin\Debug\net5.0\Project_Euler.pdb
+C:\Users\Baratharun\Visual C#\Masterclass\Project_Euler\obj\Debug\net5.0\Project_Euler.csprojAssemblyReference.cache
+C:\Users\Baratharun\Visual C#\Masterclass\Project_Euler\obj\Debug\net5.0\Project_Euler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baratharun\Visual C#\Masterclass\Project_Euler\obj\Debug\net5.0\Project_Euler.AssemblyInfoInputs.cache
+C:\Users\Baratharun\Visual C#\Masterclass\Project_Euler\obj\Debug\net5.0\Project_Euler.AssemblyInfo.cs
+C:\Users\Baratharun\Visual C#\Masterclass\Project_Euler\obj\Debug\net5.0\Project_Euler.csproj.CoreCompileInputs.cache
+C:\Users\Baratharun\Visual C#\Masterclass\Project_Euler\obj\Debug\net5.0\Project_Euler.dll
+C:\Users\Baratharun\Visual C#\Masterclass\Project_Euler\obj\Debug\net5.0\ref\Project_Euler.dll
+C:\Users\Baratharun\Visual C#\Masterclass\Project_Euler\obj\Debug\net5.0\Project_Euler.pdb
+C:\Users\Baratharun\Visual C#\Masterclass\Project_Euler\obj\Debug\net5.0\Project_Euler.genruntimeconfig.cache
