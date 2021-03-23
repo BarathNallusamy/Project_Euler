@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Project_Euler
 {
@@ -7,6 +9,7 @@ namespace Project_Euler
         public static void Main(string[] args)
         {
             
+
 
         }
 
@@ -27,28 +30,7 @@ namespace Project_Euler
             return sum;
         }
 
-        public static int LargestPalindromeNumber(int x)
-        {
-            
-            int a = 9, b = 9;
-            int sum = 0, reverse = 0;
+        
 
-            for (int i = 9; i > 0; i--)
-            {
-                sum = a * b;
-
-                while (sum > 0)
-                {
-                    int remainder = sum % 10;
-                    reverse = (reverse * 10) + remainder;
-                    sum = sum / 10;
-                }
-
-            }
-            Console.WriteLine(sum + "" + reverse);
-            return reverse;
-
-
-        }
     }
 }
