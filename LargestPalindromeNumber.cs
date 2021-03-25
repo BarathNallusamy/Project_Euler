@@ -13,13 +13,18 @@ namespace Project_Euler
             List<int> listNum = new List<int>();
             int sum = 0;
             int i = x;
+            int temp = x;
             for (; i > 0; i--)
             {
-                sum = x * i;
-                if (IsPalindrome(sum))
+                for (; x > 0; x--)
                 {
-                    listNum.Add(sum);
+                    sum = x * i;
+                    if (IsPalindrome(sum))
+                    {
+                        listNum.Add(sum);
+                    }
                 }
+                x = temp;
             }
             return listNum.Max();
 
@@ -36,7 +41,7 @@ namespace Project_Euler
                 sum = (sum * 10) + reverse;
                 n = n / 10;
             }
-            results = (temp == sum) ? true: false;
+            results = temp == sum ? true: false;
             return results;
         }
     }
